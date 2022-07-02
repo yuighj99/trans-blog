@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yuighj99.github.io/trans-blog/sitemap.xml
