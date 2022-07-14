@@ -12,7 +12,7 @@
         {
             "id": "https://mpt24.com/post1.html",
             "url": "https://mpt24.com/post1.html",
-            "title": "THE GOOD NEWS AND THE BAD NEWS",
+            "title": "THE GOOD NEWS AND BAD NEWS",
             "summary": "The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to&hellip;",
             "content_html": "<p>The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to do with sailing or the sea.</p>",
             "image": "https://mpt24.com/media/posts/1/10_030_110132_varazze-2.jpg",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-07-14T13:19:47+02:00",
-            "date_modified": "2022-07-14T16:31:34+02:00"
+            "date_modified": "2022-07-14T16:55:11+02:00"
         }
     ]
 }
