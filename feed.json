@@ -13,8 +13,8 @@
             "id": "https://mpt24.com/post1.html",
             "url": "https://mpt24.com/post1.html",
             "title": "The good news",
-            "summary": "The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to to with sailing or the sea. Hey, whatever you do&hellip;",
-            "content_html": "<p>The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to to with sailing or the sea. Hey, whatever you do</p>\n<p>don't click on \"Continue reading!\"</p>",
+            "summary": "The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to to with sailing or the sea. Hey, whatever you do...",
+            "content_html": "<p>The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to to with sailing or the sea. Hey, whatever you do...</p>\n<p>don't click on \"Continue reading!\"</p>",
             "image": "https://mpt24.com/media/posts/1/10_030_110132_varazze-2.jpg",
             "author": {
                 "name": "simpleAuthor"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-07-14T13:19:47+02:00",
-            "date_modified": "2022-07-14T15:22:14+02:00"
+            "date_modified": "2022-07-14T15:50:00+02:00"
         }
     ]
 }
