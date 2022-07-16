@@ -1,28 +1,25 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "BIG BAD UNIVERSE",
+    "title": "mpt24",
     "description": "",
     "home_page_url": "https://mpt24.com",
     "feed_url": "https://mpt24.com/feed.json",
     "user_comment": "",
     "author": {
-        "name": "simpleAuthor"
+        "name": "Author1"
     },
     "items": [
         {
-            "id": "https://mpt24.com/post1.html",
-            "url": "https://mpt24.com/post1.html",
-            "title": "THE GOOD NEWS AND BAD NEWS",
-            "summary": "The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to do...",
-            "content_html": "<p>The good news is that there's only one piece of bad news. The bad news is that the good news has nothing at all to do...</p>\n<p>with being by the seaside.</p>",
-            "image": "https://mpt24.com/media/posts/1/10_030_110132_varazze-2.jpg",
+            "id": "https://mpt24.com/not-now-not-tomorrow-but-maybe-not-never.html",
+            "url": "https://mpt24.com/not-now-not-tomorrow-but-maybe-not-never.html",
+            "title": "NOT NOW, NOT TOMORROW, BUT MAYBE NOT NEVER",
             "author": {
-                "name": "simpleAuthor"
+                "name": "Author1"
             },
             "tags": [
             ],
-            "date_published": "2022-07-14T13:19:47+02:00",
-            "date_modified": "2022-07-16T09:15:04+02:00"
+            "date_published": "2022-07-16T12:10:14+02:00",
+            "date_modified": "2022-07-16T12:13:13+02:00"
         }
     ]
 }
